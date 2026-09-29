@@ -4,11 +4,15 @@ The HPC@ISR-Lisboa/LARSyS organization coordinates high-performance computing to
 
 ## Research Groups
 
-- [VisLab](https://github.com/vislab-tecnico-lisboa/)
-- [IRSg](https://github.com/IRS-group)
-- [LaSEEB](https://github.com/LaSEEB)
-- [SIPg](https://github.com/sipg-isr)
-- [DSOR](https://github.com/dsor-isr)
+- [VisLab](https://github.com/vislab-tecnico-lisboa/) (SysAdmin: Plinio Moreno)
+
+- [DSOR](https://github.com/dsor-isr) (SysAdmin: David Cabecinhas)
+
+- [LaSEEB](https://github.com/LaSEEB) (SysAdmin: Rita Nunes)
+
+- [IRSg](https://github.com/IRS-group) (SysAdmin: Afonso Certo)
+
+- [SIPg](https://github.com/sipg-isr) (SysAdmin: Francisco Calisto)
 
 ## ISR Knowledge Base
 
