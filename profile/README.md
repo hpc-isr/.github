@@ -4,8 +4,8 @@ The HPC@ISR-Lisboa/LARSyS organization coordinates high-performance computing to
 
 ## Research Groups
 
-- [VisLab Técnico Lisboa](https://github.com/vislab-tecnico-lisboa/)
-- [IRS Group](https://github.com/IRS-group)
+- [VisLab](https://github.com/vislab-tecnico-lisboa/)
+- [IRS](https://github.com/IRS-group)
 - [LaSEEB](https://github.com/LaSEEB)
 - [SIPg](https://github.com/sipg-isr)
 - [DSOR](https://github.com/dsor-isr)
