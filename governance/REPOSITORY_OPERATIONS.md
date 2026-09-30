@@ -5,7 +5,7 @@ This guidance applies to `hpc-isr` repositories listed in the [repository invent
 ## Before work
 
 - Read this guidance, the repository's own `AGENTS.md`, `README.md`, and task-relevant instructions before acting. Repository-specific requirements remain authoritative for that repository; resolve conflicts explicitly instead of silently overriding them.
-- Audit every in-scope repository before making changes. Check the local root, branch/upstream, working tree, recent history, relevant files, and the task-relevant GitHub state. For a requested full audit, cover structure, architecture, code, security, dependencies, validation, documentation, automation, releases, and GitHub metadata. State which repositories and areas were checked and which could not be checked.
+- Before any task involving this repository family, fully audit every repository currently listed in the canonical inventory, not only the checkout being edited. Check each repository's root, branch/upstream, working tree, recent history, files, structure, architecture, code, security, dependencies, validation, documentation, automation, releases, and relevant GitHub metadata. State per-repository coverage and any checks that could not be completed. Re-read time-sensitive state when it matters to the task.
 - Treat local files, hosted metadata, and user-provided information as separate evidence sources. Verify time-sensitive claims against their strongest available source. Mark facts, assumptions, estimates, unknowns, and contradictions clearly; cite evidence and verification dates where useful.
 
 ## Record project knowledge
@@ -24,7 +24,7 @@ This guidance applies to `hpc-isr` repositories listed in the [repository invent
 ## GitHub coordination
 
 - Treat Issues, Pull Requests, Discussions, Milestones, Projects, labels, reviewers, assignees, and relationships as part of the maintained project state. When repository work changes, check for relevant metadata drift; when metadata changes, check for needed documentation or code updates.
-- Update existing artifacts where possible. Use Issues for actionable work, Pull Requests for reviewable repository changes, and Discussions for genuine open questions or early coordination. Avoid duplicates and unnecessary artifacts.
+- Update existing artifacts where possible. Use Issues for actionable work, Pull Requests for concrete changes when independent review or repository policy calls for one, and Discussions for genuine open questions or early coordination. Prefer `main` for work and as the integration target when permitted; use the approved review flow whenever direct updates are restricted or unsafe. Avoid duplicates and unnecessary artifacts.
 - Keep artifact titles broad and durable. Use existing labels consistently; Issues should normally have one type, one priority, and one status label. Label every Pull Request, assign a clear owner, and request review when independent review is needed. Keep fields, links, acceptance criteria, validation evidence, blockers, and remaining work synchronized when applicable.
 - Add comments only when they contribute new information: what was checked, changed, verified, what remains unresolved, and the next action. Link relevant evidence and use a person's GitHub handle when known. Close work only when its scope is complete and verified, or when it is demonstrably obsolete, duplicated, or superseded.
 
