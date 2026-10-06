@@ -8,7 +8,7 @@ The HPC@ISR-Lisboa/LARSyS organization coordinates high-performance computing to
 
 - [DSOR](https://github.com/dsor-isr) (SysAdmin: David Cabecinhas)
 
-- [LaSEEB](https://github.com/LaSEEB) (SysAdmin: Rita Nunes)
+- [LaSEEB](https://github.com/LaSEEB) (SysAdmin: Athanasios Vourvopoulos)
 
 - [IRSg](https://github.com/IRS-group) (SysAdmin: Afonso Certo)
 
