@@ -1,17 +1,7 @@
-# .github
+# HPC@ISR-Lisboa/LARSyS
 
-List of research groups from ISR-Lisboa/LARSyS on GitHub:
+The HPC@ISR-Lisboa/LARSyS organization coordinates high-performance computing topics and shared resources across participating research groups.
 
-DSOR -> David Cabecinhas
+See the [organization profile](profile/README.md) for the current research-group directory and SysAdmin contacts. Keep contact details in that directory to avoid maintaining a second copy here.
 
-https://github.com/dsor-isr
-
-IRSg -> John Lewis
-
-SIPg -> Francisco Calisto
-
-https://github.com/sipg-isr
-
-VisLab -> Plinio Moreno
-
-LaSEEB -> TBD
+For shared repository standards, see the [repository operations guidance](governance/REPOSITORY_OPERATIONS.md).
