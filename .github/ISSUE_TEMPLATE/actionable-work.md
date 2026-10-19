@@ -24,6 +24,12 @@ Link blocking work or state that no dependency is known. Do not invent native li
 - [ ] State observable completion checks.
 - [ ] Link or describe the evidence that will demonstrate each result.
 
+## GitHub metadata
+- [ ] Use one existing type, one priority, and one status label where the repository taxonomy supports them.
+- [ ] Assign a verified accountable owner; if ownership is unknown, record the decision needed and leave the issue unassigned and visibly blocked.
+- [ ] Link a relevant milestone, related issues or dependencies, and project fields where supported.
+- [ ] Record estimates or dependencies in the body when GitHub has no suitable native field.
+
 ## Priority, status, and estimate
 - Priority:
 - Status:
